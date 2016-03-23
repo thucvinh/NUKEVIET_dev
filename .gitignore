@@ -66,3 +66,4 @@ composer.lock
 !/uploads/banners/webnhanh_vn.png
 !/data/cache/.htaccess
 !/data/cache/index.html
+data
