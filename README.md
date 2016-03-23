@@ -39,5 +39,8 @@ See [LICENSE.txt](LICENSE.txt) for the full license.
 ##Nukeviet Centre for Research and Development
 VIETNAM OPEN SOURCE DEVELOPMENT JOINT STOCK COMPANY (VINADES.,JSC)
 
+Website: http://vinades.vn | http://nukeviet.vn | http://nukeviet.com
 
-Dev by Thuc Vinh: http://tieplua.com | http://tieplua.net | http://tieplua.info
+Head Office:
+  - Room 2004 - CT2 Nang Huong Building, 583 Nguyen Trai st, Ha Dong dist, Hanoi, Vietnam.
+  - Phone: +84-4-85872007, Fax: +84-4-35500914, Email: contact (at) vinades.vn
