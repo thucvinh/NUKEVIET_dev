@@ -1,2 +1,8 @@
 [Thu, 24 Mar 2016 17:02:17 +0700] [Array] [User Notice(1024): SQLSTATE[HY000] [1049] Unknown database 'demo_24'] [FILE: /vendor/vinades/nukeviet/Core/Database.php] [LINE: 75]
 [Thu, 24 Mar 2016 17:02:17 +0700] [Array] [Notice(8): Trying to get property of non-object] [FILE: /install/index.php] [LINE: 410]
+[Thu, 24 Mar 2016 17:13:24 +0700] [Array] [Notice(8): Undefined offset: 5] [FILE: /modules/slider/admin/del_content.php] [LINE: 31]
+[Thu, 24 Mar 2016 17:13:42 +0700] [Array] [Warning(2): in_array() expects parameter 2 to be array, string given] [FILE: /modules/slider/blocks/global.block_slider_cat.php] [LINE: 36]
+[Thu, 24 Mar 2016 17:14:06 +0700] [Array] [Notice(8): Undefined variable: html] [FILE: /modules/slider/blocks/global.block_slider_cat_owl.php] [LINE: 18]
+[Thu, 24 Mar 2016 17:14:06 +0700] [Array] [Warning(2): in_array() expects parameter 2 to be array, string given] [FILE: /modules/slider/blocks/global.block_slider_cat_owl.php] [LINE: 34]
+[Thu, 24 Mar 2016 17:14:20 +0700] [Array] [Notice(8): Undefined variable: html] [FILE: /modules/slider/blocks/global.block_doitac.php] [LINE: 18]
+[Thu, 24 Mar 2016 17:14:20 +0700] [Array] [Warning(2): in_array() expects parameter 2 to be array, string given] [FILE: /modules/slider/blocks/global.block_doitac.php] [LINE: 34]
