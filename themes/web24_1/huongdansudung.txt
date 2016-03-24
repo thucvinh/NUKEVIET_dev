@@ -1,0 +1,15 @@
+
+Kieu giao dien:
+
+- Layout mat dinh: Body
+- Full: header,footer,menu
+- Các demo tuong tu:
++ http://www.binhphongsaigon.com
++ http://dealtre.com/
++ http://vaycuoijl.com/
+
+Huong dan su dung:
+Buoc 1: xem hinh mota chon layout gan giong nhat
+Buoc 2: Xoa cac them con lai (tru theme default)
+Buoc 3: module nao can sua theme thi copy module do ben defautl bo sang theme can su dung
+Buoc 4: kich hoat va phat trien
