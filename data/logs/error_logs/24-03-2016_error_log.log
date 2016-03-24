@@ -1,0 +1,2 @@
+[Thu, 24 Mar 2016 17:02:17 +0700] [Array] [User Notice(1024): SQLSTATE[HY000] [1049] Unknown database 'demo_24'] [FILE: /vendor/vinades/nukeviet/Core/Database.php] [LINE: 75]
+[Thu, 24 Mar 2016 17:02:17 +0700] [Array] [Notice(8): Trying to get property of non-object] [FILE: /install/index.php] [LINE: 410]
