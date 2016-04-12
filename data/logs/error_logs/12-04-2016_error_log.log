@@ -1,0 +1,3 @@
+[Tue, 12 Apr 2016 17:14:59 +0700] [Array] [User Notice(1024): SQLSTATE[HY000] [1049] Unknown database 'nukeviet24'] [FILE: /vendor/vinades/nukeviet/Core/Database.php] [LINE: 75]
+[Tue, 12 Apr 2016 17:14:59 +0700] [Array] [Notice(8): Trying to get property of non-object] [FILE: /install/index.php] [LINE: 410]
+[Tue, 12 Apr 2016 17:16:06 +0700] [Array] [Warning(2): gzinflate(): data error] [FILE: /vendor/vinades/nukeviet/Http/Encoding.php] [LINE: 41]
