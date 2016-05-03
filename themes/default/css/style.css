@@ -1785,6 +1785,7 @@ a.btn {
 
 .nv-infodie .logo {
     max-width:90% !important;
+    margin-bottom: 10px
 }
 
 /* Form */
@@ -1955,7 +1956,7 @@ button.close {
     font-size: 14px;
     text-align: left
 }
-#sitemodal .close{
+#sitemodal .close, #sitemodalTerm .close{
     position: absolute;
     right: -10px;
     bottom: -10px;

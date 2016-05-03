@@ -1,21 +1,46 @@
-#NukeViet CMS
+#Introduction about NukeViet
+NukeViet is the first opensource CMS in Vietnam. The lastest version - NukeViet 4 coding ground up support lastest web technologies, include reponsive web design (use HTML 5, CSS 3, Composer, XTemplate), jQuery, Ajax...) enables you to build websites and online applications rapidly.
 
-##Tích hợp thêm một số module dùng sẵn
+With it own core libraries built in, NukeViet 4 is cross platforms and frameworks independent. By basic knowledge of PHP and MySQL, you can easily extend NukeViet for your purposes.
 
-1. Module Home (tác giả: Phan Tan Dung)
+NukeViet core is simply but powerful. It supports abstract modules which can be duplicate. So, it helps you create automatically many modules without any line of code from existing abstract modules.
 
-2. Module slider (tác giả: Nhim Thu Lĩnh - đã fix lỗi)
+NukeViet supports installing automatically modules, blocks, themes at Admin Control Panel and supports packing features which allow you to share your modules to web- community.
 
-3. Module Hỗ trợ trực tuyến:
+NukeViet fully supports multi-languages for internationalization and localization. Not only multi-interface languages but also multi-database languages are supported. NukeViet supports you to build new languages which are not distributed by NukeViet.
 
-4. Fix giao diện amdin
+Detailed information about Nukeviet at Wikipedia Encyclopedia: http://vi.wikipedia.org/wiki/NukeViet
 
-5. Loại bỏ module freecontent
+##Licensing
+NukeViet is released under GNU/GPL version 2 or any later version.
 
-6. Bổ sung Giao diện Dev
+See [LICENSE.txt](LICENSE.txt) for the full license.
 
-7. Fix và loại bỏ một số block không dùng tới
+##NukeViet official website
+  - Home page - link to all resources NukeViet: http://nukeviet.vn (select Vietnamese to have the latest information).
+  - NukeViet official Coding: http://code.nukeviet.vn
+  - Theme, Module and more add-ons for NukeViet: http://nukeviet.vn/vi/store/
+  - NukeViet official Forum http://forum.nukeviet.vn/
+  - Open Document Library for NukeViet: http://wiki.nukeviet.vn/
+  - NukeViet Translate Center: http://translate.nukeviet.vn/
+  - NukeViet partner: http://nukeviet.vn/vi/partner/
+  - NukeViet Education Center: http://nukeviet.edu.vn
+  - NukeViet SaaS: http://nukeviet.com (testing)
 
-Website: http://tieplua.net | http://tieplua.com | http://tieplua.info | http://nguoikhuyettat.clup
+##Community
+  - NukeViet Fanpage: http://facebook.com/nukeviet
+  - NukeViet group on FB: https://www.facebook.com/groups/nukeviet/
+  - http://twitter.com/nukeviet
+  - https://groups.google.com/forum/?fromgroups#!forum/nukeviet
+  - http://google.com/+nukeviet
 
-Thúc Vinh - Email: thucvinh_arc@yahoo.com.vn skype: thucvinh_arc
+
+
+##Nukeviet Centre for Research and Development
+VIETNAM OPEN SOURCE DEVELOPMENT JOINT STOCK COMPANY (VINADES.,JSC)
+
+Website: http://vinades.vn | http://nukeviet.vn | http://nukeviet.com
+
+Head Office:
+  - Room 2004 - CT2 Nang Huong Building, 583 Nguyen Trai st, Ha Dong dist, Hanoi, Vietnam.
+  - Phone: +84-4-85872007, Fax: +84-4-35500914, Email: contact (at) vinades.vn

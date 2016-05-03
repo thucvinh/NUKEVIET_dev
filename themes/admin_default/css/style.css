@@ -125,16 +125,7 @@ h1, h2, h3, h4, h5, h6 {
  -----------------------------------------------------------------------------*/
 #header {
 	height: 52px;
-	background: url(../images/hd.png) repeat
-}
-
-.navbar-inverse{
-	background-color: #4C8600;
-    border-color:#87be3d;
-}
-
-.navbar-inverse .navbar-nav>li>a{
-	color:#fff
+	background: #101010;
 }
 
 #header div.logo {
@@ -263,11 +254,6 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Menu Horizontal
  -----------------------------------------------------------------------------*/
-@media (max-width: 1300px) and (min-width: 768px) {
-	#digclock {
-		display: none;
-	}
-}
 @media (max-width: 1070px) and (min-width: 768px) {
 	#menu-horizontal > ul > li > a {
 		padding-left: 10px;
@@ -873,10 +859,6 @@ button.close {
   #sitemodal .modal-content{
         display: block
     }
-}
-
-#digclock {
-	margin-right: 10px;
 }
 
 .select2-container--default .select2-selection--single{

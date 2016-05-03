@@ -109,7 +109,8 @@ if (! nv_function_exists('nv_menu_site_mods')) {
                                 'link' => NV_BASE_SITEURL . 'index.php?' . NV_LANG_VARIABLE . '=' . NV_LANG_DATA . '&amp;' . NV_NAME_VARIABLE . '=' . $modname . '&amp;' . NV_OP_VARIABLE . '=' . $l['alias']
                             );
                         }
-                    }elseif ($modvalues['module_file'] == 'shops') {
+                    }
+                    if ($modvalues['module_file'] == 'shops') {
                         $db->sqlreset()->select(NV_LANG_DATA . '_title as title, ' . NV_LANG_DATA . '_alias as alias')->from($db_config['prefix'] . '_' . $modvalues['module_data'] . '_catalogs')->where('parentid=0 AND inhome=1')->order('weight ASC')->limit(10);
                         $list = $nv_Cache->db($db->sql(), '', $modname);
                         foreach ($list as $l) {
