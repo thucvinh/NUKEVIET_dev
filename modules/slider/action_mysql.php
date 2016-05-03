@@ -54,7 +54,11 @@ $sql_create_module[] = "CREATE TABLE " . $db_config['prefix'] . "_" . $lang . "_
 ) ENGINE=MyISAM"; 
 
 $sql_create_module[] = "INSERT INTO " . $db_config['prefix'] . "_" . $lang . "_" . $module_data . "_template VALUES(NULL, 'slider', 1, 1, ". NV_CURRENTTIME .")"; 
+
 $sql_create_module[] = "INSERT INTO " . $db_config['prefix'] . "_" . $lang . "_" . $module_data . "_template VALUES(NULL, 'bxslider', 2, 1, ". NV_CURRENTTIME .")"; 
-$sql_create_module[] = "INSERT INTO " . $db_config['prefix'] . "_" . $lang . "_" . $module_data . "_template VALUES(NULL, 'nivo_slider', 3, 1, ". NV_CURRENTTIME .")"; 
-$sql_create_module[] = "INSERT INTO " . $db_config['prefix'] . "_" . $lang . "_" . $module_data . "_template VALUES(NULL, 'pinwheel', 4, 1,". NV_CURRENTTIME .")"; 
+
+$sql_create_module[] = "INSERT INTO " . $db_config['prefix'] . "_" . $lang . "_" . $module_data . "_template VALUES(NULL, 'jssorslider', 3, 1, ". NV_CURRENTTIME .")"; 
+
+$sql_create_module[] = "INSERT INTO " . $db_config['prefix'] . "_" . $lang . "_" . $module_data . "_template VALUES(NULL, 'owlslider', 4, 1, ". NV_CURRENTTIME .")"; 
+$sql_create_module[] = "INSERT INTO " . $db_config['prefix'] . "_" . $lang . "_" . $module_data . "_template VALUES(NULL, 'doitac', 5, 1,". NV_CURRENTTIME .")"; 
  

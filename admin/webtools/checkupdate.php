@@ -125,7 +125,7 @@ if ($nv_Request->isset_request('i', 'get')) {
                 $info .= ! empty($value['version']) ? $value['version'] : 'n/a';
                 $info .= '; ' . $lang_module['onlineVersion'] . ': ';
                 $info .= ! empty($value['new_version']) ? $value['new_version'] : ((! empty($value['version']) and $value['origin']) ? $value['version'] : 'n/a');
-
+				
                 $tooltip = array();
                 $tooltip[] = array( 'title' => $lang_module['userVersion'], 'content' => (! empty($value['version']) ? $value['version'] : 'n/a') . (! empty($value['date']) ? ' (' . nv_date('d/m/Y H:i', strtotime($value['date'])) . ')' : '') );
                 $tooltip[] = array( 'title' => $lang_module['onlineVersion'], 'content' => (! empty($value['new_version']) ? $value['new_version'] : ((! empty($value['version']) and $value['origin']) ? $value['version'] : 'n/a')) . (! empty($value['new_date']) ? ' (' . nv_date('d/m/Y H:i', strtotime($value['new_date'])) . ')' : '') );

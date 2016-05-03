@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @Project NUKEVIET 3.x
+ * @Project NUKEVIET 4.x
  * @Author VINADES.,JSC (contact@vinades.vn)
  * @copyright 2009
  * @createdate 05/07/2010 09:47
@@ -14,7 +14,7 @@ $module_version = array(
 	"modfuncs" => "main",
 	"is_sysmod" => 0,
 	"virtual" => 0,
-	"version" => "3.4.01",
+	"version" => "4.0.28",
 	"date" => "Sat, 15 Jun 2013 00:00:00 GMT",
 	"author" => "Phan Tan Dung (phantandung92@gmail.com)",
 	"note" => "",
