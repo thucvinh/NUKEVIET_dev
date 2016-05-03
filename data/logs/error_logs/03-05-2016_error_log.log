@@ -1,0 +1,5 @@
+[Tue, 03 May 2016 09:54:22 +0700] [Array] [User Notice(1024): SQLSTATE[HY000] [1049] Unknown database 'nukevietrc3'] [FILE: /vendor/vinades/nukeviet/Core/Database.php] [LINE: 75]
+[Tue, 03 May 2016 09:54:22 +0700] [Array] [Notice(8): Trying to get property of non-object] [FILE: /install/index.php] [LINE: 410]
+[Tue, 03 May 2016 09:54:22 +0700] [Array] [Notice(8): Undefined variable: my_lang] [FILE: /modules/users/action_mysql.php] [LINE: 192]
+[Tue, 03 May 2016 09:54:22 +0700] [Array] [Notice(8): Undefined variable: my_lang] [FILE: /modules/users/action_mysql.php] [LINE: 193]
+[Tue, 03 May 2016 09:54:22 +0700] [Array] [Notice(8): Undefined variable: my_lang] [FILE: /modules/users/action_mysql.php] [LINE: 194]
