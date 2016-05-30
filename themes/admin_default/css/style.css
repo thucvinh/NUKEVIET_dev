@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
  -----------------------------------------------------------------------------*/
 #header {
 	height: 52px;
-	background: #101010;
+	background: url(../images/hd.png) repeat
 }
 
 #header div.logo {
@@ -135,6 +135,15 @@ h1, h2, h3, h4, h5, h6 {
 
 #header div.logo .logo-xs {
 	display: none;
+}
+
+.navbar-inverse{
+	background-color: #4C8600;
+    border-color:#87be3d;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color:#fff
 }
 
 @media (max-width: 550px) {
